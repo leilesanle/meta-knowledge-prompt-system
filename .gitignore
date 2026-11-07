@@ -1,0 +1,7 @@
+__pycache__/
+*.pyc
+*_backup.json
+*.bak
+*.tmp
+.DS_Store
+local/
