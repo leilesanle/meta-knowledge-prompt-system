@@ -1,5 +1,7 @@
 # 提示词优化：用户说原话，AI 负责翻成行话
 
+English: [PROMPT_OPTIMIZATION.en.md](PROMPT_OPTIMIZATION.en.md)
+
 > 这是本仓库两条核心规则之一的操作手册（方法卡 M021 的展开版）。另一条是「先学名词，后解问题」（P001），词典就是它的工具。
 
 ## 解决什么问题
